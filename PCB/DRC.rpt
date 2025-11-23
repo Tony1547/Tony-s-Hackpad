@@ -1,0 +1,43 @@
+** Drc report for Tony's Hackpad.kicad_pcb **
+** Created on 2025-11-23T12:26:38-0600 **
+
+** Found 8 DRC violations **
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(148.5300 mm, 98.5100 mm): Reference field of D2
+    @(151.0800 mm, 96.3900 mm): Rectangle of D1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(144.9800 mm, 98.5100 mm): Reference field of D3
+    @(147.5300 mm, 96.3900 mm): Rectangle of D2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap
+    Rule: board setup constraints silk; warning
+    @(143.9800 mm, 96.3900 mm): Rectangle of D3 on F.Silkscreen
+    @(141.4300 mm, 98.5100 mm): Reference field of D4
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(138.5200 mm, 84.4075 mm): Segment of U1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(156.3000 mm, 84.4075 mm): Segment of U1 on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.6350 mm)
+    Rule: board setup constraints silk text height; warning
+    @(138.9100 mm, 63.8985 mm): Reference field of U1
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.2200 mm, 64.9500 mm): Rectangle on Edge.Cuts
+    @(142.9150 mm, 65.3575 mm): Segment of U1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge
+    Rule: board setup constraints silk; warning
+    @(134.2200 mm, 64.9500 mm): Rectangle on Edge.Cuts
+    @(151.9140 mm, 64.4475 mm): Segment of U1 on F.Silkscreen
+
+** Found 1 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(217.3100 mm, 74.5100 mm): PTH pad C [GND] of SW5
+    @(186.5400 mm, 96.6800 mm): Track [GND] on F.Cu, length 1.0621 mm
+
+** Found 0 Footprint errors **
+
+** End of Report **

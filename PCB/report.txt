@@ -1,0 +1,58 @@
+Info: Processing symbol 'D2:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Total warnings: 2, errors: 0.
+Info: Processing symbol 'U1:Seeed Studio XIAO Series Library:XIAO-RP2040-DIP'.
+Info: Processing symbol 'SW5:Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles'.
+Info: Processing symbol 'SW4:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW3:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW2:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'SW1:Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB'.
+Info: Processing symbol 'D7:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'D1:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D3:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'D4:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Info: Processing symbol 'J1:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'D6:LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm'.
+Info: Processing symbol 'D5:Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal'.
+Connected U1 pin 8 to Net-(U1-GPIO1/RX).
+Add net unconnected-(U1-GPIO0/TX-Pad7).
+Connected U1 pin 3 to Net-(D3-K).
+Connected U1 pin 7 to unconnected-(U1-GPIO0/TX-Pad7).
+Connected U1 pin 9 to Net-(U1-GPIO2/SCK).
+Connected U1 pin 8 to Net-(U1-GPIO1/RX).
+Connected U1 pin 5 to Net-(J1-Pin_1).
+Connected U1 pin 10 to Net-(U1-GPIO4/MISO).
+Connected U1 pin 3 to Net-(D3-K).
+Connected U1 pin 2 to Net-(U1-GPIO27/ADC1/A1).
+Connected U1 pin 4 to Net-(D1-K).
+Connected U1 pin 14 to +5V.
+Connected U1 pin 11 to Net-(D7-DIN).
+Connected U1 pin 6 to Net-(J1-Pin_2).
+Connected U1 pin 1 to Net-(U1-GPIO26/ADC0/A0).
+Connected U1 pin 11 to Net-(D7-DIN).
+Connected U1 pin 13 to GND.
+Connected U1 pin 4 to Net-(D1-K).
+
+
+Connected U1 pin 10 to Net-(U1-GPIO4/MISO).
+Added U1 (footprint 'Seeed Studio XIAO Series Library:XIAO-RP2040-DIP').
+Changed REF** reference designator to U1.
+Updated U1 symbol association from  to /4d1a9f71-27df-4e27-b774-be99de6ec158.
+Updated U1 sheetname to '/'.
+Updated U1 sheetfile to 'Tony&apos;s Hackpad.kicad_sch'.
+Connected U1 pin 6 to Net-(J1-Pin_2).
+Connected U1 pin 2 to Net-(U1-GPIO27/ADC1/A1).
+Connected U1 pin 5 to Net-(J1-Pin_1).
+Add net +5V.
+Connected U1 pin 14 to +5V.
+Add net unconnected-(U1-3V3-Pad12).
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Connected U1 pin 9 to Net-(U1-GPIO2/SCK).
+Connected U1 pin 13 to GND.
+Connected U1 pin 12 to unconnected-(U1-3V3-Pad12).
+Connected U1 pin 1 to Net-(U1-GPIO26/ADC0/A0).
+Connected U1 pin 7 to unconnected-(U1-GPIO0/TX-Pad7).
+Warning: No net found for component SW5 pad MP (no pin MP in symbol).
+Warning: No net found for component SW5 pad MP (no pin MP in symbol).
+
+
+Info: Total warnings: 2, errors: 0.
