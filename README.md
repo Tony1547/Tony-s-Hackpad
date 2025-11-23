@@ -23,3 +23,7 @@ here is the BOM
 - 1x XIAO RP2040
 - 1x 3D printed Knob
 - 1x Case (3 printed parts)
+
+
+Onshape Link: 
+https://cad.onshape.com/documents/8ad7d2646e8abcfb7b25184b/w/24c99ef8492e9030912f12b4/e/451f3b87f204af70294b3909
