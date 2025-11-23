@@ -12,14 +12,14 @@ this hackpad features
 and is heavily inspired by the Orpheuspad
 
 here is the BOM
-4x Cherry MX Switches
-4x Keycaps
-2x M3x20mm Bolts
-2X M3 Nuts
-5x 1N4148 DO-35 Diodes.
-2x WS2812B LEDs
-1x 0.91" 128x32 OLED Display
-1x EC11 Rotary Encoder
-1x XIAO RP2040
-1x 3D printed Knob
-1x Case (3 printed parts)
+- 4x Cherry MX Switches
+- 4x Keycaps
+- 2x M3x20mm Bolts
+- 2X M3 Nuts
+- 5x 1N4148 DO-35 Diodes.
+- 2x WS2812B LEDs
+- 1x 0.91" 128x32 OLED Display
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x 3D printed Knob
+- 1x Case (3 printed parts)
