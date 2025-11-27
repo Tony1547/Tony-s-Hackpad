@@ -27,3 +27,5 @@ here is the BOM
 
 Onshape Link: 
 https://cad.onshape.com/documents/8ad7d2646e8abcfb7b25184b/w/24c99ef8492e9030912f12b4/e/451f3b87f204af70294b3909
+
+BOM : https://docs.google.com/spreadsheets/d/1EjQ-sWdvyT260Oy-gi_Ogl_R5tOAiS5uNp19XqqBWMU/edit?gid=0#gid=0
